@@ -30,7 +30,7 @@
 ## `$ cat about.txt`
 
 ```yaml
-name       : Parzival  (Shivam Bharti)
+name       : Shivam
 handle     : V8Velocity
 university : Lovely Professional University (LPU)
 degree     : B.Tech — Computer Science Engineering
