@@ -106,7 +106,7 @@ A lightweight, installable PWA for live system metrics — CPU, memory, process 
 <div align="center">
 
 <!-- Animated trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=V8Velocity&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" alt="trophies" />
+<img src="https://github-trophies.vercel.app/?username=V8Velocity&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 <br/><br/>
 
@@ -126,8 +126,11 @@ A lightweight, installable PWA for live system metrics — CPU, memory, process 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=V8Velocity&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00e5ff&text_color=e6edf3&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V8Velocity&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3&langs_count=6" alt="Top Languages" />
+<!-- Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=V8Velocity&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00e5ff&text_color=e6edf3&count_private=true&cache_seconds=1800" />
+
+<!-- Top Languages -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V8Velocity&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3&langs_count=6&cache_seconds=1800" />
 
 <br/>
 
